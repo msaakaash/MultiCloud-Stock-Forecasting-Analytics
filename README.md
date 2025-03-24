@@ -33,7 +33,7 @@ This project leverages various cloud services to build a scalable, explainable, 
 💹 MultiCloud-Stock-Forecasting-Analytics
 ├── 📂assets
 |   ├── powerBI_Visualization.jpg
-├── Documentation.docx
+├── Documentation.pdf
 ├── README.md
 ├── StockMarketForecasting.ipynb
 ```
